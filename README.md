@@ -14,9 +14,3 @@
 ## Bài nộp
 
 File: `Day25_AI-Team-Lab_Team3201.pdf`
-
-## Phạm vi và nguồn bằng chứng
-
-Checkmate sử dụng sản phẩm và code hiện có trong thư mục `P-112`: hệ thống hỗ trợ Ban quản lý theo dõi ticket, ca vệ sinh, hậu kiểm, hợp đồng/SLA và truy vấn dữ liệu vận hành bằng AI. Các bằng chứng kỹ thuật được đối chiếu từ `P-112/README.md`, `P-112/ARCHITECTURE.md`, `P-112/WORKLOG.md`, `P-112/docs/prd.md` và các bộ kiểm thử trong `P-112/tests/`.
-
-Stance của stakeholder và điểm Team Health trong PDF là bản chốt phục vụ Lab dựa trên thông tin hiện có; team cần xác nhận lại bằng trao đổi trực tiếp trước khi dùng cho quyết định pilot thực tế.
